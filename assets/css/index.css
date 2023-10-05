@@ -1,0 +1,9 @@
+.avatar {
+    width: 250px;
+    height: 350px;
+
+    background-image: url(../img/avatar.jpg);
+    background-size: cover;
+
+    float: right;
+}
